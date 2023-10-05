@@ -1,0 +1,8 @@
+{
+  "name": "HLSPlayer",
+  "version": "1.0.0",
+  "main": "sdk/index.js",
+  "repository": "https://github.com/jin-Pro/HLSPlayer.git",
+  "author": "jin-Pro <dnjun2@ajou.ac.kr>",
+  "license": "MIT"
+}
